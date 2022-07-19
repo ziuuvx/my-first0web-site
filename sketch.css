@@ -1,0 +1,14 @@
+.one,.two,.three,.four,.five{
+    width: 100px;
+    height: 50px;
+}
+.one{background-color: brown;
+display: none;}
+.two{background-color:deeppink;
+display: inline-block;}
+.three{background-color: darkgreen;
+display: inline-block;}
+.four{background-color: teal;
+display: flex;}
+.five{background-color: salmon;
+display: grid;}
